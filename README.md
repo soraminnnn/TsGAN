@@ -1,6 +1,10 @@
 # A GAN-based method for time-dependent cloud workload generation
 PyTorch implementation of A GAN-based method for time-dependent cloud workload generation.
 
+# Download dataset
+Alibaba trace:  
+https://drive.google.com/file/d/173vBtzX4S-gslVmcH9QXTHnx9NKFulZt/view?usp=share_link
+
 # Getting started
 ## PlanetLab
 train:  
